@@ -2507,7 +2507,87 @@
 
 
  
-"cart":[]
+"cart":[],
+ "freelancers": [
+    {
+      "name": "prachi",
+      "email": "prachitiwari0911@gmail.com",
+      "password": "1234",
+      "profession": "Web Developer",
+      "skills": [
+        "html,css,js"
+      ],
+      "hourly_rate": "123",
+      "profile_picture": "https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
+      "isBooked": false,
+      "id": 1
+    },
+    {
+      "name": "heropanti",
+      "email": "prachitiwaricod@gmail.com",
+      "password": "1234",
+      "profession": "Graphic Designer",
+      "skills": [
+        "html,css,js,react"
+      ],
+      "hourly_rate": "12345",
+      "profile_picture": "https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
+      "isBooked": true,
+      "id": 2
+    },
+      {
+      "name": "prachi",
+      "email": "prachitiwari0911@gmail.com",
+      "password": "1234",
+      "profession": "Web Developer",
+      "skills": [
+        "html,css,js"
+      ],
+      "hourly_rate": "123",
+      "profile_picture": "https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
+      "isBooked": false,
+      "id": 1
+    },
+    {
+      "name": "heropanti",
+      "email": "prachitiwaricod@gmail.com",
+      "password": "1234",
+      "profession": "Graphic Designer",
+      "skills": [
+        "html,css,js,react"
+      ],
+      "hourly_rate": "12345",
+      "profile_picture": "https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
+      "isBooked": true,
+      "id": 2
+    },
+      {
+      "name": "prachi",
+      "email": "prachitiwari0911@gmail.com",
+      "password": "1234",
+      "profession": "Web Developer",
+      "skills": [
+        "html,css,js"
+      ],
+      "hourly_rate": "123",
+      "profile_picture": "https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
+      "isBooked": false,
+      "id": 1
+    },
+    {
+      "name": "heropanti",
+      "email": "prachitiwaricod@gmail.com",
+      "password": "1234",
+      "profession": "Graphic Designer",
+      "skills": [
+        "html,css,js,react"
+      ],
+      "hourly_rate": "12345",
+      "profile_picture": "https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
+      "isBooked": true,
+      "id": 2
+    }
+  ]
 
 
 }
