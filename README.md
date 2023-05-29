@@ -10,6 +10,13 @@ cd bankapp-mock-api
 #### Step 1: Create a node js project
 ```
 npm init -y
+
+
+
+
+
+
+
 ```
 
 #### Step 2: Install json server dependency
